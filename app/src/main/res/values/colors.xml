@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Primary">#FFFFFFFF</color>
+    <color name="Secondary">#E89F16</color>
+    <color name="button_hover">#FFA717</color>
+    <color name="Text">#49454f</color>
+    <color name="black">#FF000000</color>
+    <color name="green">#2EC5B6</color>
+    <color name="transparent">#30000000</color>
+    <color name="transparent2">#00000000</color>
+</resources>

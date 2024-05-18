@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">MonryMate</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_up">Sign up</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="Enter_Your_Email">Enter Your Email</string>
+    <string name="Enter_Your_Password">Enter Your Password</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="save_btn">SAVE</string>
+    <string name="Create_New">Create a new Account?</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="webclientid">857837890100-l8j2qtb9ft7mb42dnm1l342l62ero0ij.apps.googleusercontent.com</string>
+
+
+    <string name="Add_trans">Add Transaction</string>
+    <string name="expense_radio">Expense</string>
+    <string name="income_radio">Income</string>
+    <string name="Amount">Amount</string>
+    <string name="Title">Title</string>
+    <string name="Category">Category</string>
+    <string name="Today">Today</string>
+    <string name="Note">Note</string>
+
+    <string name="onb_1_title">Your finance made simple.</string>
+    <string name="onb_1_part">MoneyMate simplifies finance for everyone.. Manange Your Transaction with us.</string>
+    <string name="onb_2_title">Your Finance Companion</string>
+    <string name="onb_2_part">Empowering You to Take Control of Your Financial Future.</string>
+    <string name="onb_3_title">Navigate Your Finances</string>
+    <string name="onb_3_part">Your Comprehensive Tool for Financial Empowerment.</string>
+
+    <string name="Enter_pw">Enter Password</string>
+    <string name="re_pw">Re-Enter Password</string>
+    <string name="hv_acc">Already Have Account?</string>
+    <string name="Hi">Hi,Sasindu Nadeeshan</string>
+    <string name="trans_page">Add your  transaction  below </string>
+    <string name="export">Export To Excel</string>
+    <string name="export_dis">Select the date range below for the transaction you want to export</string>
+    <string name="net_amount">Net Amount</string>
+    <string name="income_bal">0.00</string>
+    <string name="expense_bal">0.00</string>
+    <string name="net_bal">0.00</string>
+    <string name="All_time_transactrion">All Time Transaction</string>
+    <string name="Expense_income_report"> Expense-income report </string>
+    <string name="Gift">Gift</string>
+    <string name="disctoition_gift">Income for Friend</string>
+    <string name="gift_bal">30000.00</string>
+    <string name="date_for_gift">2024-02-2</string>
+
+</resources>
